@@ -1,0 +1,1 @@
+//? Here we will only add those widgets, which are used only in [tab] => [landscape and portrait] mode

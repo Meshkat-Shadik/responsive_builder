@@ -1,0 +1,24 @@
+name: responsive_example_2
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  device_preview: ^1.2.0
+  flutter:
+    sdk: flutter
+  responsive_builder:
+    git:
+      url: https://github.com/Meshkat-Shadik/responsive_builder
+      ref: master
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
